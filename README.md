@@ -1,1 +1,9 @@
-# Jemuran-otomatis-berbasis-IoT
+# Detail Project
+# Components
+# Circuit
+# Code
+# BLYNK
+## BLYNK CLOUD
+## BLYNK Mobile
+# Firebase
+# Demo
